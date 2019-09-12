@@ -1,0 +1,11 @@
+# ide cache
+/.idea
+
+# dependencies
+/node_modules
+
+# production
+/build
+
+# lock
+package-lock.json
